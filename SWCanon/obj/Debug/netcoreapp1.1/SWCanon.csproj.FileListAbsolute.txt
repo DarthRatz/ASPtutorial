@@ -1,0 +1,9 @@
+c:\users\z236\documents\visual studio 2017\Projects\SWCanon\SWCanon\bin\Debug\netcoreapp1.1\SWCanon.deps.json
+c:\users\z236\documents\visual studio 2017\Projects\SWCanon\SWCanon\bin\Debug\netcoreapp1.1\SWCanon.runtimeconfig.json
+c:\users\z236\documents\visual studio 2017\Projects\SWCanon\SWCanon\bin\Debug\netcoreapp1.1\SWCanon.runtimeconfig.dev.json
+c:\users\z236\documents\visual studio 2017\Projects\SWCanon\SWCanon\bin\Debug\netcoreapp1.1\SWCanon.dll
+c:\users\z236\documents\visual studio 2017\Projects\SWCanon\SWCanon\bin\Debug\netcoreapp1.1\SWCanon.pdb
+c:\users\z236\documents\visual studio 2017\Projects\SWCanon\SWCanon\obj\Debug\netcoreapp1.1\SWCanon.csprojResolveAssemblyReference.cache
+c:\users\z236\documents\visual studio 2017\Projects\SWCanon\SWCanon\obj\Debug\netcoreapp1.1\SWCanon.AssemblyInfo.cs
+c:\users\z236\documents\visual studio 2017\Projects\SWCanon\SWCanon\obj\Debug\netcoreapp1.1\SWCanon.dll
+c:\users\z236\documents\visual studio 2017\Projects\SWCanon\SWCanon\obj\Debug\netcoreapp1.1\SWCanon.pdb
